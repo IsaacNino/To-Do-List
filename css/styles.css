@@ -23,7 +23,7 @@ padding: 4px 15px 4px 5px;
 
 #button{
 display: inline-block;
-background-color:#fc999b;
+background-color:#689af8;
 color:#ffffff;
 border-radius: 5px;
 text-align:center;
@@ -58,3 +58,5 @@ li > crossOutButton {
 	color: #025f70;
 	font-weight: 800;
 }
+
+.strike{text-decoration: line-through;}
